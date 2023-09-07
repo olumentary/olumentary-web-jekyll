@@ -1,5 +1,5 @@
 url: 'https://olumentary.github.io/'
-baseurl: 'olumentary-web-jekyll'
+baseurl: 'olumentary-web-jekyll/'
 title: 'olumentary'
 
 plugins:
