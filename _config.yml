@@ -1,6 +1,7 @@
 url: 'https://olumentary.com'
-# baseurl: '/olumentary-web-jekyll'
+baseurl: ''
 title: 'olumentary'
+description: 
 
 plugins:
   - jekyll-postcss
@@ -13,3 +14,6 @@ exclude:
   - postcss.config.js
   - tailwind.config.js
   - yarn.lock
+  - .nvmrc
+  - .ruby-version
+  - README.md
